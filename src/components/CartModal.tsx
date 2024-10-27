@@ -44,7 +44,7 @@ const cartItems = true;
                                     // src="https://negativespace.co/wp-content/uploads/2024/10/negative-space-maple-tree-foliage-1062x708.jpg"
                                     src="/pencils.jpg"
                                     alt="" width={72} height={96} className="object-cover rounded-md"/>
-                                <div className="flex flex-col justify-between w-full">
+                                 <div className="flex flex-col justify-between w-full">
                                     {/*TOP*/}
                                     <div>
                                         {/*TITLE*/}
